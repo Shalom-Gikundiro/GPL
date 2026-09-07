@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+client/dist/
+server/uploads/*
+!server/uploads/.gitkeep

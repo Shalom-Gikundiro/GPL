@@ -1,0 +1,13 @@
+{
+  "name": "gpl",
+  "version": "1.0.0",
+  "description": "A full-stack educational platform built with **React** (frontend) and **Node.js + Express + MySQL** (backend).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm --prefix client run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
